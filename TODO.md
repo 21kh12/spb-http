@@ -1,0 +1,11 @@
+# To-Do
+- [X] Create project structure
+- [X] Add License and contributing guidelines
+- [X] Set up basic express.js http server
+- [ ] Expand upon server for more functionality
+- [ ] Set up route loader
+- [ ] Add basic API framework for front-end app
+- [ ] Add spotify API and use static, hard-coded values for auth
+- [ ] Create song suggestion system
+- [ ] Set up authentication with spotify
+- [ ] Polish API
