@@ -1,6 +1,6 @@
 {
   "name": "spb-http",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The backend of the Spotify Playlist Builder written in TypeScript and powered by Express.js",
   "main": "index.ts",
   "scripts": {
